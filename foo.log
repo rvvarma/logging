@@ -1,0 +1,10 @@
+{"name":"foo","hostname":"RaghuRam","pid":3260,"level":30,"msg":"hii","time":"2017-07-19T09:49:05.215Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":4440,"level":30,"msg":"hii","time":"2017-07-19T09:50:11.838Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":5332,"level":30,"msg":"can do anything","time":"2017-07-19T09:59:07.250Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":4052,"level":30,"lang":"fr","msg":"can do anything","time":"2017-07-19T10:00:35.730Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":5248,"level":30,"lang":"fr","msg":"can do anything","time":"2017-07-19T10:12:27.100Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":5248,"level":40,"msg":"kkkkkkkkkkk","time":"2017-07-19T10:12:27.103Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":5272,"level":30,"lang":"fr","msg":"can do anything","time":"2017-07-19T10:13:32.123Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":5272,"level":40,"msg":"kkkkkkkkkkk","time":"2017-07-19T10:13:32.125Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":3320,"level":30,"lang":"from","msg":" anything","time":"2017-07-19T10:39:36.388Z","v":0}
+{"name":"foo","hostname":"RaghuRam","pid":2692,"level":30,"lang":"to me","msg":" anyway","time":"2017-07-19T10:47:02.727Z","v":0}
